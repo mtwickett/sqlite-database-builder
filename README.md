@@ -26,7 +26,7 @@ Add the zip file you want to convert into a sqlite database to the repository fo
 ```
 python3 create_sqlite_db.py [zipfile_name.zip] [chosen_database_name.db]
 ```
-This will create the database. Open the repository in vscode and install the vscode SQLite extension. Open vscode command palatte:
+This will create the database. Open the repository in vscode and install the vscode SQLTools and SQLite extensions. Open vscode command palatte:
 ```
 CTRL + SHIFT + P
 ```
